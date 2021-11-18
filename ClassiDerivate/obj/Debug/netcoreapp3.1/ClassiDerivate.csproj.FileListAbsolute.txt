@@ -1,0 +1,13 @@
+E:\4F\ClassiDerivate\bin\Debug\netcoreapp3.1\ClassiDerivate.exe
+E:\4F\ClassiDerivate\bin\Debug\netcoreapp3.1\ClassiDerivate.deps.json
+E:\4F\ClassiDerivate\bin\Debug\netcoreapp3.1\ClassiDerivate.runtimeconfig.json
+E:\4F\ClassiDerivate\bin\Debug\netcoreapp3.1\ClassiDerivate.runtimeconfig.dev.json
+E:\4F\ClassiDerivate\bin\Debug\netcoreapp3.1\ClassiDerivate.dll
+E:\4F\ClassiDerivate\bin\Debug\netcoreapp3.1\ClassiDerivate.pdb
+E:\4F\ClassiDerivate\obj\Debug\netcoreapp3.1\ClassiDerivate.csproj.AssemblyReference.cache
+E:\4F\ClassiDerivate\obj\Debug\netcoreapp3.1\ClassiDerivate.AssemblyInfoInputs.cache
+E:\4F\ClassiDerivate\obj\Debug\netcoreapp3.1\ClassiDerivate.AssemblyInfo.cs
+E:\4F\ClassiDerivate\obj\Debug\netcoreapp3.1\ClassiDerivate.csproj.CoreCompileInputs.cache
+E:\4F\ClassiDerivate\obj\Debug\netcoreapp3.1\ClassiDerivate.dll
+E:\4F\ClassiDerivate\obj\Debug\netcoreapp3.1\ClassiDerivate.pdb
+E:\4F\ClassiDerivate\obj\Debug\netcoreapp3.1\ClassiDerivate.genruntimeconfig.cache

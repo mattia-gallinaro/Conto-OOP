@@ -1,0 +1,13 @@
+E:\4F\ContaSoldi\bin\Debug\netcoreapp3.1\ContaSoldi.exe
+E:\4F\ContaSoldi\bin\Debug\netcoreapp3.1\ContaSoldi.deps.json
+E:\4F\ContaSoldi\bin\Debug\netcoreapp3.1\ContaSoldi.runtimeconfig.json
+E:\4F\ContaSoldi\bin\Debug\netcoreapp3.1\ContaSoldi.runtimeconfig.dev.json
+E:\4F\ContaSoldi\bin\Debug\netcoreapp3.1\ContaSoldi.dll
+E:\4F\ContaSoldi\bin\Debug\netcoreapp3.1\ContaSoldi.pdb
+E:\4F\ContaSoldi\obj\Debug\netcoreapp3.1\ContaSoldi.csproj.AssemblyReference.cache
+E:\4F\ContaSoldi\obj\Debug\netcoreapp3.1\ContaSoldi.AssemblyInfoInputs.cache
+E:\4F\ContaSoldi\obj\Debug\netcoreapp3.1\ContaSoldi.AssemblyInfo.cs
+E:\4F\ContaSoldi\obj\Debug\netcoreapp3.1\ContaSoldi.csproj.CoreCompileInputs.cache
+E:\4F\ContaSoldi\obj\Debug\netcoreapp3.1\ContaSoldi.dll
+E:\4F\ContaSoldi\obj\Debug\netcoreapp3.1\ContaSoldi.pdb
+E:\4F\ContaSoldi\obj\Debug\netcoreapp3.1\ContaSoldi.genruntimeconfig.cache
